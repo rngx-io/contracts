@@ -17,7 +17,7 @@ This repository contains the core smart contracts powering RNGX, a decentralized
 🚧 Status
 Contracts are in active development. Audits will follow before mainnet deployment.
 
-📚 Learn more
+# Learn more
 
 Website → https://rngx.io
 
